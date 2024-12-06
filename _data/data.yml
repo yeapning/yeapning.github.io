@@ -14,17 +14,17 @@ sidebar:
 
     # Sidebar links
     email: yb040531@gmail.com
-    phone: 012 345 6789
-    timezone: Asia/South_Korea # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    phone: 010 1234 5678
+    timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: South Korea
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: yebincho
+    linkedin: 
+    xing: 
     github: yeapning
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -48,14 +48,17 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Playing games
           link:
 
-        - item: Snowboarding
+        - item: Watching animations
           link:
 
-        - item: Cooking
+        - item: Travels
           link:
+
+        - item: Writing blogs
+        link:
 
 career-profile:
     title: Career Profile
